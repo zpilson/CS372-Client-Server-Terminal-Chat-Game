@@ -21,3 +21,12 @@ Use “/q” to close all opened sockets (server and client).
 Use “Play tic tac toe” (not case sensitive) to start a game of tic tac toe (client only).
 Use the coordinate system (A1,B1,C1,A2,...) to pick your spot to mark on the board when it's the appropriate sides turn (server and client).
 
+## 
+`client.py` (“Play tic tac toe”- starts game, example)
+![sss](images/4.png)
+
+Both `server.py` and `client.py` (tic tac toe, end of game side by side)
+![sss](images/5.png)
+
+`server.py` (Chat and “/q”- quit example)
+![sss](images/1.png)
