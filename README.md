@@ -1,4 +1,4 @@
-# CS372-P2P-Terminal-Chat-Game
+# CS372-Client-Server-Terminal-Chat-Game
 A simple peer-to-peer Tic-Tac-Toe game written in **Python 3**. The game uses sockets for direct communication between a server and a client, allowing two users on the same machine or local network to play against each other.
 
 ## Files
