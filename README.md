@@ -18,7 +18,9 @@ You can change the hosted ***address*** and ***port number*** in `socketHelperFu
 
 ## How to Play
 Use “/q” to close all opened sockets (server and client).
+
 Use “Play tic tac toe” (not case sensitive) to start a game of tic tac toe (client only).
+
 Use the coordinate system (A1,B1,C1,A2,...) to pick your spot to mark on the board when it's the appropriate sides turn (server and client).
 
 ## 
